@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>boss.portal.web</groupId>
-    <artifactId>springboot-springsecurity-jwt-demo</artifactId>
+    <artifactId>jwt</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <name>springboot-springsecurity-jwt-demo</name>
